@@ -18,10 +18,10 @@ body {
 }
 .nav ul li a {
   text-decoration: none;
-  color: #00E0D4;
+  color: #d800e0;
 }
 .nav ul li a:hover {
-  background-color: #00E0D4;
+  background-color: #d800e0;
   color: #000000;
   border-radius: 5px;
   padding: 5px;
@@ -72,7 +72,7 @@ body {
   transform: translate(0, 100%);
 }
 .animated-title > div.text-top div span:first-child {
-  color: #00E0D4;
+  color: #d800e0;
 }
 .animated-title > div.text-bottom {
   bottom: 0;
@@ -91,7 +91,7 @@ body {
   color: #EAEFF2;
 }
 .con a ion-icon:hover {
-  color: #00E0D4;
+  color: #b00fcc;
 }
 .display {
   width: 100%;
@@ -146,7 +146,7 @@ body {
   background-color: #FF4500;
 }
 .aggressive {
-  background-color: #00E0D4;
+  background-color: #d800e0;
   font-weight: 700;
 }
 .call {
@@ -261,7 +261,7 @@ body {
 .foot p {
   font-weight: 500;
   font-style: italic;
-  color: #00E0D4;
+  color: #d800e0;
   
 }
 .download-btn {
@@ -291,14 +291,14 @@ body {
 textarea :is(:focus, :valid){
   border-width: 2px;
   padding: 14px;
-  border-color: #00E0D4;
+  border-color: #d800e0;
 }
 textarea::-webkit-scrollbar{
   width: 0px;
 }
 .ject textarea:hover {
   background-color: #EAEFF2;
-  border: solid 2px #00E0D4;
+  border: solid 2px #d800e0;
 }
 .tact input::placeholder {
   color: #000000;
